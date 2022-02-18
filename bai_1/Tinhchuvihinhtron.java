@@ -3,7 +3,7 @@ package bai_1;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Tinhbankinhhinhtron {
+public class Tinhchuvihinhtron {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
