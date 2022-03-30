@@ -11,8 +11,11 @@ public class PT_B2 {
 		float a = 0,b = 0,c = 0;
 		
 		try {
+			System.out.print("Nhập a = ");
 			a = sc.nextFloat();
+			System.out.print("Nhập b = ");
 			b = sc.nextFloat();
+			System.out.print("Nhập c = ");
 			c = sc.nextFloat();
 		} catch (Exception e) {
 			System.out.println("Nhập sai dữ liệu. ");
@@ -24,9 +27,16 @@ public class PT_B2 {
 		double x2 = 0;
 //		delta = (b*b) - (4*a*c);
 		if (a==0) {
-			
-			x =  -c/b;
-			System.out.printf("%.4f", x);
+			if(b == 0) {
+				if(c == 0) {
+					System.out.print("PT vô số nghiệm. ");
+				}else {
+					System.out.print("PT vô nghiệm. ");
+				}
+			}else {
+				x =  -c/b;
+				System.out.printf("%.4f", x);
+			}
 		}else {
 			
 			delta = (b*b) - (4*a*c);

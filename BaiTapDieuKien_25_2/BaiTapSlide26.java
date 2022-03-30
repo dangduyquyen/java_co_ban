@@ -1,4 +1,4 @@
-package session3;
+package BaiTapDieuKien_25_2;
 
 import java.util.Scanner;
 

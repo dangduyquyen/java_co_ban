@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package BaiTapVongLap_25_2;
+package BaiTapDieuKien_25_2;
 
 import java.util.Scanner;
 
