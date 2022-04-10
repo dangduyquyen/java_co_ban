@@ -1,0 +1,5 @@
+Student [maSinhVien=28392393829, gpa=7.65, soCCCD=913769182, hoTen=Nguyen Van A, gioiTinh=nam, namSinh=2002]
+Student [maSinhVien=28391233829, gpa=7.45, soCCCD=915219482, hoTen=Nguyen Van B, gioiTinh=nu, namSinh=2002]
+Student [maSinhVien=28395325529, gpa=7.25, soCCCD=913769182, hoTen=Nguyen Van C, gioiTinh=nam, namSinh=2002]
+Student [maSinhVien=28392376729, gpa=7.15, soCCCD=913769182, hoTen=Nguyen Van D, gioiTinh=nu, namSinh=2002]
+Student [maSinhVien=28391236529, gpa=7.05, soCCCD=913769182, hoTen=Nguyen Van E, gioiTinh=nam, namSinh=2002]
